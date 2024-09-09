@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making my portfolio<br> 🌹   I’m solo fullstack developer<br>🌱 I’m currently learning C++<br>💬 Ask me about anything related to web development and python
+🔭  I’m currently working on making my portfolio<br> 🌹  I’m solo fullstack developer<br>🌱 I’m currently learning C++<br>💬 Ask me about anything related to web development and python
 
 
 ## 🌐 Socials:
