@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on making my portfolio<br>🌱 I’m currently learning C++<br>💬 Ask me about anything related to web development and python
+I'm Silun, a 17 years old fullstack developer who likes to develop apps and websites. I've been programming using Javascript/Python for 4 years and I love to challenge myself developing open-source projects.
 
 
 ## 🌐 Socials:
