@@ -1,15 +1,14 @@
-# 💫 About Me:
-I'm Silun, a 17 years old fullstack developer who likes to develop apps and websites. I've been programming using Javascript/Python for 4 years and I love to challenge myself developing open-source projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=35&pause=700&color=5270FA&width=435&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+-----
+
+I'm **Silun**, a 17 years old fullstack developer who likes to develop apps and websites. I've been programming using Javascript/Python for 4 years and I love to challenge myself developing open-source projects.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingfalkern) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kingfalkern) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KingFalkern) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@kingfalkern)
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,react,threejs,html,css,c,cpp,nodejs,py)](https://skillicons.dev)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Falkern&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Falkern&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Falkern&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 Github Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Falkern?cardType=level&theme=vision-friendly-dark&showIcons=false&preferLogin=true&Background=0d1117&Text=5270FA&Title=5270FA&Border=5270FA&Ring=5270FA)](https://git.io/awesome-stats-card)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Falkern&date_format=n%2Fj%5B%2FY%5D&background=0d1117&border=5270FA&stroke=5270FA&ring=5270FA&fire=FF551A&currStreakNum=5270FA&sideNums=5270FA&currStreakLabel=5270FA&sideLabels=5270FA&dates=5270FA&excludeDaysLabel=5270FA&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
