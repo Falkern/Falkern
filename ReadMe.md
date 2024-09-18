@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=35&pause=700&color=5270FA&width=435&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 -----
 
-I'm **Silun**, a 17 years old fullstack web developer and cybersecurity major who likes to develop apps and websites. I've been programming using Javascript/Python for 4 years and I love to challenge myself developing open-source projects.
+I'm **Silun**, a 17 years old fullstack web developer and cybersecurity major who likes to develop apps and websites. I've been programming using Javascript and frameworks like React and Node.js for around 4 years and I love to challenge myself developing open-source projects.
 
 
 ## 🛠 Skills
