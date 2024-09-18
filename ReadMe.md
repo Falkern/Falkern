@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Silun!
 - 🤖 Fullstack web developer
 - 🎓 Currently studying [Cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) at [ESOFT Metro Campus](https://esoft.lk)
-- 🎮 Playing games when i'm bored
+- 🎮 Playing games
 - 🎵 Synth enthusiast
 - 📚 Currently learning [Three.js](https://github.com/mrdoob/three.js/)
 - 👾 Get to know me more through discord: `kingfalkern`
