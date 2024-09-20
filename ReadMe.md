@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Silun!
+# Hey There! 👋 
 - 🤖 Fullstack web developer
 - 🎓 Currently studying [Cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) at [ESOFT Metro Campus](https://esoft.lk)
 - 🎮 Playing games
