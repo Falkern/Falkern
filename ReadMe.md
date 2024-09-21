@@ -3,7 +3,7 @@
 - 🎓 Currently studying [Cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) at [ESOFT Metro Campus](https://esoft.lk)
 - 🎮 Playing games
 - 🎵 Synth enthusiast
-- 📚 Currently learning [Three.js](https://github.com/mrdoob/three.js/)
+- 📚 Currently learning [Three.js](https://github.com/mrdoob/three.js/) and [Vue](https://github.com/vuejs)
 - 👾 Get to know me more through discord: `kingfalkern`
 
 ![status](https://api.statusbadges.me/badge/status/806412205557284875?simple=true)
