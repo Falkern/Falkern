@@ -5,6 +5,12 @@
 - 🎵 Synth enthusiast
 - 📚 Currently learning [Three.js](https://github.com/mrdoob/three.js/)
 - 👾 Get to know me more through discord: `kingfalkern`
+
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/806412205557284875?simple=true)
+![playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/806412205557284875)
+![vscode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/806412205557284875)
+[![spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/806412205557284875)](https://dev.discordprofiles.me/openspotify/806412205557284875)
+
 ## 🛠 Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,threejs,vue,html,scss,tailwind,nodejs,nextjs,cpp,py&theme=dark)](https://skillicons.dev) <br>
 [![My Tools](https://skillicons.dev/icons?i=windows,ae,ps,pr,visualstudio,vscode,webstorm,clion,powershell,obsidian,notion,github&theme=dark)](https://skillicons.dev)
