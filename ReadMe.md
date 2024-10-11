@@ -13,7 +13,7 @@
 
 ## 🛠 Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,html,scss,tailwind,nodejs,cpp,cs,py&theme=dark)](https://skillicons.dev) <br>
-[![My Tools](https://skillicons.dev/icons?i=windows,ae,ps,pr,visualstudio,vscode,webstorm,clion,powershell,obsidian,discord,github&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=windows,ae,ps,pr,visualstudio,vscode,webstorm,clion,vercel,obsidian,discord,github&theme=dark)](https://skillicons.dev)
 --
 <details>
   <summary><h2>📊 Github Stats:</h2></summary>
