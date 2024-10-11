@@ -1,9 +1,9 @@
 # Hey There! 👋 
 - 🤖 Fullstack developer
-- 🎓 Currently studying [Cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) at [ESOFT Metro Campus](https://esoft.lk)
-- 🎮 Playing games
-- 🎵 Synth enthusiast
-- 📚 Currently learning [Three.js](https://github.com/mrdoob/three.js/) 
+- 🎓 First year [cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) student at [ESOFT](https://esoft.lk)
+- 🎮 I like playing games when i'm bored
+- 🎵 I'm pretty fond of the synth genre
+- 📚 Currently learning [three.js](https://github.com/mrdoob/three.js/)
 - 👾 Get to know me more through discord: `kingfalkern`
 
 ![status](https://api.statusbadges.me/badge/status/806412205557284875?simple=true)
