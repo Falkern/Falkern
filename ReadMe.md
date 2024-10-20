@@ -1,8 +1,8 @@
 # Hey There! 👋 
 - 🤖 Fullstack developer
-- 🎓 First year [Cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) student at [ESOFT](https://esoft.lk)
+- 🎓 First year [cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) student at [ESOFT](https://esoft.lk)
 - 🎮 I like playing games when i'm bored
-- 🎵 I'm pretty fond of the synth genre
+- 🎵 I'm pretty fond synth and royalcore
 - 📚 Currently learning [three.js](https://github.com/mrdoob/three.js/), [ruby](https://github.com/ruby/ruby), [solidity](https://github.com/ethereum/solidity)
 - 👾 Get to know me more through discord: `kingfalkern`
 
