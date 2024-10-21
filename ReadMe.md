@@ -12,7 +12,7 @@
 [![spotify](https://api.statusbadges.me/badge/spotify/806412205557284875)](https://api.statusbadges.me/openspotify/806412205557284875)
 
 ## 🛠 Skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,html,tailwind,solidity,lua,cpp,cs,py&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,html,tailwind,solidity,ruby,cpp,cs,py&theme=dark)](https://skillicons.dev) <br>
 [![My Tools](https://skillicons.dev/icons?i=windows,ae,ps,pr,visualstudio,vscode,webstorm,clion,vercel,obsidian,discord,github&theme=dark)](https://skillicons.dev)
 --
 <details>
