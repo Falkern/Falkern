@@ -29,26 +29,31 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,html,tailwind,solidity,ruby,cpp,cs,py&theme=dark" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,html,tailwind,solidity,ruby,cpp,cs,py&theme=dark" alt="My Skills" width="100%" height="80">
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,kali,ae,ps,pr,visualstudio,vscode,webstorm,clion,vercel,discord,github&theme=dark" alt="My Tools">
+    <img src="https://skillicons.dev/icons?i=windows,kali,ae,ps,pr,visualstudio,vscode,webstorm,clion,vercel,discord,github&theme=dark" alt="My Tools" width="100%" height="80">
   </a>
 </div>
 
-<div align="center">
-<h2>📊 GitHub Stats:</h2>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Falkern&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="60%">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falkern&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="38.25%">
-</a>
-<br>
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Falkern&theme=transparent&hide_border=true" alt="GitHub Streak Stats" width="100%">
-</a>
-<br>
-</div>
+<details>
+  <summary>
+    <h2>‎ ‎ ‎ </h2>
+  </summary>
+  <div align="center">
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=Falkern&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="60%">
+    </a>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falkern&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="38.25%">
+    </a>
+    <br>
+    <a href="#">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Falkern&theme=transparent&hide_border=true" alt="GitHub Streak Stats" width="100%">
+    </a>
+    <br>
+  </div>
+</details>
+
 
