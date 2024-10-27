@@ -2,7 +2,7 @@
 - 🤖 Fullstack developer
 - 🎓 First year [cybersecurity](https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/) student at [ESOFT](https://esoft.lk)
 - 🎮 I like playing games when i'm bored
-- ⚡ Goals: getting a job and making my own linux distro
+- ⚡ I got 2 goals right now, getting a job and making my own linux distro 
 - 📚 Currently learning [three.js](https://github.com/mrdoob/three.js/), [ruby](https://github.com/ruby/ruby) and [solidity](https://github.com/ethereum/solidity)
 - 👾 Get to know me more through discord: `kingfalkern`
 
