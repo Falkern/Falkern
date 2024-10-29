@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://64.media.tumblr.com/5674ae1e069bfba0bece33f53e6b7b06/23a650d65252eb2a-10/s1280x1920/ed6474b51d914329c17f66134be31390d314f134.jpg" alt="Nanami Bored" style="width:100%">
+    <img src="https://64.media.tumblr.com/627f8783bce2f2f6e0c26b77efa18a0f/1578db14220f99e2-2d/s1280x1920/afbce8e18f1cbae9ec4dd0c144c049002caa7946.pnj" alt="Nanami Bored" style="width:100%">
 </div>
 
 
