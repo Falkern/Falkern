@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <p>🤖 Hey there! I'm a full-stack developer. I mainly use TypeScript and mess around with frameworks like React and Vue.</p>
+  <p>🤖 Hey there! I'm a full-stack developer. I mainly use Python, TypeScript and mess around with frameworks like React and Vue.</p>
   <p>🎓 Right now, I'm in my first year studying <a href="https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/">Cybersecurity</a> at <a href="https://esoft.lk">ESOFT</a>.</p>
   <p>🎮 When I’m not coding, you can find me gaming or chilling out with some music—it's the perfect way to unwind.</p>
   <p>⚡ I’ve got a couple of goals I’m chasing: landing a sweet job in tech and, just for kicks, creating my own Linux distro. Sounds fun, right?</p>
