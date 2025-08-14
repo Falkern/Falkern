@@ -10,7 +10,7 @@
 <div align="justify">
   <p>🎀 I just do stuff</p>
   <p>💤 second year cybersecurity student</p>
-  <p>💔 chat im unemployed (hire me pls 🖤)</p>
+  <p>💔 chat im unemployed (hire me pls 🙏)</p>
   <p>🤓 learning solidity rn</p>
   <p>👾 add me on discord: <code>kingfalkern</code></p>
 </div>
